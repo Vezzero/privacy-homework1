@@ -25,5 +25,3 @@ Samuel Piron - 2121724
 
 The dataset used in the project can be downloaded here:
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
-
-I do not own any of the Softwares provided above.
